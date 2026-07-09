@@ -7,7 +7,4 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         Testing GitHub-Jira integration for FDM1.txt
 
-nothing added to commit but untracked files present (use "git add" to track)
-
-AzureAD+SahanaRamakrishna@Sahana MINGW64 ~/Hello-jira (FDM1-141-hello-j
-changes done here
+nothing added to commit but untracked files present (use "git ad
